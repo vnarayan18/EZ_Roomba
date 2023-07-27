@@ -17,7 +17,7 @@ void loop() {
   motor2.setSpeed(50);
   motor1.run(FORWARD);
   motor2.run(BACKWARD);
-  delay(5000);98
+  delay(5000);
   }
   else if (d>=30){
   motor1.setSpeed(50);
