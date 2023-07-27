@@ -1,0 +1,8 @@
+*******************************************
+1) Install the NewPing.h library from the library manager
+2) Install the Adafruit v1 motor shield library from the library manager.
+*******************************************
+
+Important: I'd suggest you use the analog pins as digital pins because the AFmotor shield is already using most of the digital PWM pins on 
+the other side of the board. 
+Thank you!
